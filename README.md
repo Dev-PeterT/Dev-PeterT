@@ -1,5 +1,6 @@
 # 👋 Hi there! My name is Peter Tran.
 
+<!-- Introduction -->
 <p>
   I’m a 💻 software developer and 🎮 game programmer based in Canada. My passion for game development began early, when modding a childhood game introduced me to the world of programming. Since then, I’ve grown my skills through formal education, studying Game Programming at Humber College and Information Technology at York University.
   
@@ -11,11 +12,22 @@
 **Outside of coding, I enjoy:**
 - Playing and designing video games 🎮
 - Experimenting with new tech and tools 🚀
+
 ___
 
 <!-- Github Profile Summary -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-petert&theme=transparent&border_radius=5&card_width=600&card_height=200)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/dev-petert">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-petert&count_private=true&layout=compact&theme=transparent&card_width=600&card_height=200" alt="Top Languages" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dev-petert&theme=transparent&border_radius=5&card_width=600&card_height=200" alt="GitHub Streak" />
+  </a>
+</div>
 
+___
+
+<br>
 <!-- Programming Languages -->
 <h3>My Languages</h3>
 <div>
@@ -31,6 +43,7 @@ ___
   <img width="12" />
 </div>
 
+<br>
 <!-- Tools and Software -->
 <h3>Tools & Software</h3>
 <div>
