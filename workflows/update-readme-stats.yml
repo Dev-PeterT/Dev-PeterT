@@ -1,0 +1,14 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set GH_TOKEN
+        run: echo "GH_TOKEN=${{ secrets.GH_TOKEN }}" >> $GITHUB_ENV
