@@ -18,7 +18,7 @@ ___
 <!-- Github Profile Summary -->
 <div align="center">
   <a href="https://github.com/dev-petert">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-petert&count_private=true&layout=compact&theme=transparent&card_width=600&card_height=200" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-petert&count_private=true&layout=compact&theme=transparent&card_width=600&card_height=200)](https://github.com/dev-petert" alt="Top Languages" />
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=dev-petert&theme=transparent&border_radius=5&card_width=600&card_height=200" alt="GitHub Streak" />
